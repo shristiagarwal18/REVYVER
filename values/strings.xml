@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Revyver by Hustle Maniacs</string>
+
+    //Headings
+    <string name="heading_one">Clear It All !</string>
+    <string name="heading_two">Clean The Mess !</string>
+    <string name="heading_three">Where am I ?</string>
+    <string name="heading_fourth">Stay In Touch !</string>
+
+    //Description
+    <string name="desc_one">From queries regarding the course structure to doubts in specific topics connect with your peers who could guide and teach you to ace in exams.</string>
+    <string name="desc_two">Feeling lost following the chain of Youtube links to the topic? Find a curated list of links according to the subjects and topics to clear it up!</string>
+    <string name="desc_three">Feeling lost about your progress? Get to know where you stand and We suggest specific topics to improve your progress!</string>
+    <string name="desc_fourth">Stay notified about all the updates regarding your term, subjects, activities, and exams to plan your studies accordingly!</string>
+</resources>
