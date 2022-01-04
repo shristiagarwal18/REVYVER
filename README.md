@@ -15,3 +15,14 @@ By providing a curated list of lectures, sessions, and updates in their respecti
 By providing an analysis report of the student in terms of pie-charts, line charts, stats in various courses enrolled and in which specific part they are lacking, the student gets the exact recommendation on what to work upon and stays motivated.
 4. STAY IN TOUCH !
 The current notification system through emails is not as convenient and effective as it should be and it may lead to a group of students missing out on important updates. The updates section would provide these through in app notifications.
+
+## Created & Maintained By
+
+[Manas Khandelwal](https://github.com/its-manas111)
+Email: [21f3000526](mailto:21f3000526@student.onlinedegree.iitm.ac.in)
+
+[Shristi Agarwal](https://github.com/shristiagarwal18)
+Email: [22f1000090](mailto:22f1000090@student.onlinedegree.iitm.ac.in)
+
+[Biswas Pankaj](https://github.com/BiswasPankaj)
+Email: [21f3000879](21f3000879@student.onlinedegree.iitm.ac.in)
